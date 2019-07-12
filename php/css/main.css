@@ -1,0 +1,45 @@
+body{
+  font-family: 'Raleway', sans-serif;
+}
+
+.jumbotron{
+  height: 1000px; 
+  background-size:cover;
+  background: url('https://images.wallpaperscraft.com/image/macbook_apple_laptop_keyboard_112500_3840x2400.jpg');
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat; 
+}
+
+.margin-l1{
+  margin-left: 45px;
+}
+
+.margin-r1{
+  margin-right: 50px;
+}
+
+.margin-r2{
+  margin-right: 10px;
+}
+
+.c1{
+  color: white;
+}
+
+.margin-t1{
+  margin-top: 200px;
+}
+
+.margin-l2{
+  margin-left: 450px;
+}
+
+.margin-b1{
+  margin-bottom: 100px;
+}
+ .b1{
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-color: #1c2938;
+ }
